@@ -12,7 +12,7 @@ Building realistic projects to improve my front-end skills.
 
 ### Links
 
-- Live Site URL: [Tip calculator app](https://t1me-tracking-dashboard.netlify.app/)
+- Live Site URL: [Tip calculator app](https://t1p-calculator-app.netlify.app/)
 
 ## Built with
 
